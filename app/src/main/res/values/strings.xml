@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LABAOSHEGA</string>
+    <string name="title">Gipotenyza</string>
+    <string name="textView2">Katets</string>
+    <string name="sideAEditText">StoronaA</string>
+    <string name="sideBEditText">StoronaB</string>
+</resources>
